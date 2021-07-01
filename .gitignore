@@ -1,3 +1,6 @@
 .env 
 github.repo 
 *.exe 
+.env 
+github.repo 
+*.exe 
